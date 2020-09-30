@@ -17,4 +17,4 @@ def countdown_with_sleep(n)
   puts "This has been 5 seconds"
 end
 
-countdown_with_sleep()
+countdown_with_sleep(5)
