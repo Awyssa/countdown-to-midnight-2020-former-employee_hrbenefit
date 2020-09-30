@@ -12,9 +12,7 @@ end
 countdown(15)
 
 
-def countdown_with_sleep(n)
-  sleep n
+def countdown_with_sleep
+  sleep 5
   puts "This has been 5 seconds"
 end
-
-countdown_with_sleep(5)
