@@ -7,3 +7,5 @@ def countdown(n)
     break if n == 0
   end
 end
+
+countdown(15)
